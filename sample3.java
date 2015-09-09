@@ -3,5 +3,6 @@ public class Sample{
 		System.out.println("Hello");
 		System.out.println("I HATE THIS CLASS");
 		System.out.println(":D")
+        System.out.println("INSIDE TESTING BRANCH")
 	}
 }
